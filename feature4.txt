@@ -1,3 +1,4 @@
 Feature 4 - Commit 1
 Feature 4 - Commit 2
 Feature 4 - Commit 3
+Feature 4 - Commit 4
