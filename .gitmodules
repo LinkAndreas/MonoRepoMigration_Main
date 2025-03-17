@@ -1,0 +1,6 @@
+[submodule "Sources/Dependency1"]
+	path = Sources/Dependency1
+	url = git@github.com:LinkAndreas/MonoRepoMigration_Dependency1.git
+[submodule "Sources/Dependency2"]
+	path = Sources/Dependency2
+	url = git@github.com:LinkAndreas/MonoRepoMigration_Dependency2.git
